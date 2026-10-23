@@ -1,0 +1,63 @@
+{
+ "total": 1317,
+ "counts": {
+  "x": 445,
+  "savee": 514,
+  "cosmos": 174,
+  "curated": 30,
+  "savee-email": 154
+ },
+ "mediaTypes": {
+  "image": 899,
+  "video": 400,
+  "link": 18
+ },
+ "duplicatesSkipped": 0,
+ "excluded": {
+  "removed": 56,
+  "x": 32
+ },
+ "dated": 1317,
+ "lastImport": "2026-10-23T14:12:21Z",
+ "sources": {
+  "x": "/workspace/x-bookmarks/items.json (+page01-09.json)",
+  "savee": "MCP user-savee list_saves (raw/savee-page*.txt)",
+  "cosmos": "cosmos-mcp public clusters of sn.nln (raw/cosmos-*.json)",
+  "curated": "data/curated.json",
+  "savee-email": "Gmail Savee weekly emails (data/savee-email.json)"
+ },
+ "guarded": [],
+ "multiMedia": {
+  "x": 40,
+  "savee": 0,
+  "cosmos": 16,
+  "curated": 0,
+  "savee-email": 0
+ },
+ "xLinkOnly": [
+  "x:2104216919033192746",
+  "x:2074169272717152716",
+  "x:2066863634949779464",
+  "x:2062934834402799710",
+  "x:2056879118076289311",
+  "x:2056489575099568504",
+  "x:2035175774714831213",
+  "x:2034368184036561160",
+  "x:2012138485663268890",
+  "x:1971013670747693266",
+  "x:1969811794144444537",
+  "x:1967976184232526303",
+  "x:1967344433734754398",
+  "x:1951739080372552129",
+  "x:1938852425210687494"
+ ],
+ "xRefSwap": {
+  "swapped": 35,
+  "deduped": [
+   "x:2096444526206276061 -> x:2095678312773554533",
+   "x:2082851210760159408 -> x:2079597925185831233"
+  ],
+  "refMissing": []
+ },
+ "failures": []
+}
