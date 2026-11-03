@@ -1,0 +1,51 @@
+{
+ "total": 1385,
+ "counts": {
+  "x": 449,
+  "savee": 514,
+  "cosmos": 210,
+  "curated": 58,
+  "savee-email": 154
+ },
+ "mediaTypes": {
+  "image": 933,
+  "video": 446,
+  "link": 6
+ },
+ "duplicatesSkipped": 0,
+ "excluded": {
+  "removed": 56,
+  "x": 32
+ },
+ "dated": 1385,
+ "lastImport": "2026-11-03T22:39:17Z",
+ "sources": {
+  "x": "/workspace/x-bookmarks/items.json (+page01-09.json)",
+  "savee": "MCP user-savee list_saves (raw/savee-page*.txt)",
+  "cosmos": "cosmos-mcp public clusters of sn.nln (raw/cosmos-*.json)",
+  "curated": "data/curated.json",
+  "savee-email": "Gmail Savee weekly emails (data/savee-email.json)"
+ },
+ "guarded": [],
+ "multiMedia": {
+  "x": 40,
+  "savee": 0,
+  "cosmos": 16,
+  "curated": 1,
+  "savee-email": 0
+ },
+ "xLinkOnly": [
+  "x:2012138485663268890",
+  "x:1969811794144444537",
+  "x:1951739080372552129"
+ ],
+ "xRefSwap": {
+  "swapped": 35,
+  "deduped": [
+   "x:2096444526206276061 -> x:2095678312773554533",
+   "x:2082851210760159408 -> x:2079597925185831233"
+  ],
+  "refMissing": []
+ },
+ "failures": []
+}
